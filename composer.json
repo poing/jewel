@@ -11,7 +11,7 @@
       "homepage": "http://discourse.invite-comm.jp"
     }
   ],
-  "abandoned": "laravel/laravel",
+  "replace": "gazsp/baum",
   "require": {
     "php": ">=5.5.9"
   },

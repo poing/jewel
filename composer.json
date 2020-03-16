@@ -11,7 +11,7 @@
       "homepage": "http://discourse.invite-comm.jp"
     }
   ],
-  "abandoned": "laravel/laravel",
+  "abandoned": true,
   "require": {
     "php": ">=5.5.9",
     "illuminate/console": "5.2.0 - 5.4.36",

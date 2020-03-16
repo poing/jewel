@@ -1,21 +1,15 @@
 {
-  "name": "gazsp/baum",
+  "name": "poing/jewel",
   "type": "library",
-  "description": "Baum is an implementation of the Nested Set pattern for Eloquent models.",
+  "description": "This is a development test version of gazsp/baum",
   "keywords": ["nested set", "laravel", "laravel 5", "eloquent", "database"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Estanislau Trepat",
-      "email": "estanis@etrepat.com",
-      "homepage": "http://etrepat.com"
-    },
-    {
-      "name": "Gary Pearman",
-      "email": "gaz@red-robot.co.uk",
-      "homepage": "http://red-robot.co.uk"
+      "name": "Brian LaVallee",
+      "email": "brian.lavallee@invite-comm.jp",
+      "homepage": "http://discourse.invite-comm.jp"
     }
-
   ],
   "require": {
     "php": ">=5.5.9",
